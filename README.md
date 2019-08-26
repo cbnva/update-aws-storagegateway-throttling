@@ -1,1 +1,2 @@
-# update-aws-storagegateway-throttling
+# Update AWS Storage Gateway Throttling
+
